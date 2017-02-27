@@ -1,4 +1,4 @@
-# FPDFimageRation
+# FPDFimageRatio
 
 This method ImageRatio is a new method for the FPDF class.
 
